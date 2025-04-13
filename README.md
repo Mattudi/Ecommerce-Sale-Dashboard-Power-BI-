@@ -8,6 +8,10 @@
 
 This Power BI project analyzes ecommerce sales performance using an interactive dashboard. The project uses a dataset containing product sales information and demonstrates data transformation, DAX calculations, visualization design, and publishing to Power BI Service. The dashboard was created by following a YouTube tutorial and customized for personal learning and portfolio purposes.
 
+![image](https://github.com/user-attachments/assets/bca81571-4920-4758-9e1d-79a1757c43a7)
+
+
+
 ## Objectives
 
 1. **Data Import and Cleaning**: Load the dataset into Power BI and clean it using Power Query Editor.
